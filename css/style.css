@@ -60,9 +60,8 @@ div{
 
 @media screen and (min-width: 998px) {
     div {
-        width: 30%;
-        display: inline-block;
-}
+        width: 30vw;
+    }
 }
 
 
