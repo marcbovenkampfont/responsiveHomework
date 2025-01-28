@@ -52,7 +52,7 @@ div{
     }
     
     img {
-        max-height: 30vw;
+        max-height: 30vh;
     }
 }
 
@@ -60,7 +60,8 @@ div{
 
 @media screen and (min-width: 998px) {
     div {
-        width: 30vw;
+        width: 30%;
+        display: inline-block;
 }
 }
 
